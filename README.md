@@ -1,3 +1,9 @@
+# Bruteforce
+
+## Problème
+
+Le fichier `input.txt` contient un chiffre de Hill.
+
 
 ## Format
 
